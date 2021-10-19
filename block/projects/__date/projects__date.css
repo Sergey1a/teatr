@@ -1,0 +1,17 @@
+.projects__date {
+  position: absolute;
+  width: 25px;
+  height: 30%;
+  left: 40px;
+  bottom: 40px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 0;
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}

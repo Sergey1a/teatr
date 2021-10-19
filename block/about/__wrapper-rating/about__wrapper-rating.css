@@ -1,0 +1,10 @@
+.about__wrapper-rating {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 640px) {
+  .about__wrapper-rating {
+    justify-content: space-around;
+  }
+}

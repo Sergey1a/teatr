@@ -1,0 +1,19 @@
+.contacts__wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 100px auto 80px;
+}
+
+@media (max-width: 1325px){
+  .contacts__wrapper{
+    flex-direction: column-reverse;
+    max-width: max-content;
+    margin:100px auto;
+  }
+}
+
+@media (max-width: 765px){
+  .contacts__wrapper{
+    width: 100%;
+  }
+}

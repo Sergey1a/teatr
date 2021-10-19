@@ -1,0 +1,26 @@
+.contacts__input {
+  font-family: OpenSans, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  color: #989898;
+  background: #444444;
+  border: 1px solid #616161;
+  box-sizing: border-box;
+  outline: none;
+  padding: 0 10px;
+}
+
+.contacts__input:focus {
+  box-shadow: 0 0 15px rgb(235, 235, 240);
+}
+
+@media (max-width: 765px) {
+  .contacts__input {
+    height:30px;
+    width:230px;
+  }
+}

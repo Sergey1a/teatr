@@ -1,0 +1,11 @@
+.header__slider-button-left {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #5c5c5c00;
+  cursor: pointer;
+}

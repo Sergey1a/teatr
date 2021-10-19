@@ -1,0 +1,23 @@
+.burger__close {
+  background-image: url(../../.././img/burger-close.svg);
+  background-position: center center;
+  background-color: rgba(0, 0, 0, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  border: none;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  margin-left: auto;
+  margin-top: 38px;
+  margin-right: 38px;
+}
+
+.burger__close:hover{
+  opacity: 0.8;
+  transition:.3s;
+}

@@ -1,0 +1,12 @@
+.burger__list {
+  display: flex;
+  margin-bottom: 35px;
+}
+
+.burger__list:first-child {
+  margin-top: 86px;
+}
+
+.burger__list:last-child {
+  margin-bottom: 0;
+}

@@ -1,0 +1,11 @@
+.header__list {
+  list-style: none;
+  text-align: center;
+  margin-right: 63px;
+}
+
+@media (max-width:1200px){
+  .header__list{
+    margin-right: 30px;
+  }
+}

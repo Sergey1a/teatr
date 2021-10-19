@@ -1,0 +1,9 @@
+.header__first-slider {
+  margin: 0 75px 0 auto;
+}
+
+@media (max-width: 1200px){
+  .header__first-slider{
+    display: none;
+  }
+}

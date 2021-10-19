@@ -1,0 +1,17 @@
+.header__phone {
+  color: #ffffff;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: right;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-family: Open, Arial, sans-serif;
+}
+
+.header__phone:hover {
+  transition:.2s;
+  border-bottom: 2px solid #d1a954;
+}

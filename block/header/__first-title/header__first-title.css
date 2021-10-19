@@ -1,0 +1,5 @@
+.header__first-title {
+  display: flex;
+  flex-direction: column;
+  max-width: 540px;
+}

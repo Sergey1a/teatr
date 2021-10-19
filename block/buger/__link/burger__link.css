@@ -1,0 +1,17 @@
+.burger__link {
+  font-family: Open;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 0;
+  text-decoration: none;
+}
+
+.burger__link:hover {
+  opacity: 0.4;
+  transition: 0.3s;
+}

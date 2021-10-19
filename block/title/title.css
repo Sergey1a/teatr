@@ -1,0 +1,21 @@
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Open;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin: 150px 0 0 0;
+  color: #ffffff;
+}
+
+@media (max-width: 920px) {
+  .title {
+    margin: 90px 0 0 0;
+  }
+}

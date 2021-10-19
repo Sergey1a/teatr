@@ -1,0 +1,14 @@
+.partners__wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  max-width: 1034px;
+  margin: 0 auto;
+  padding: 0 111px 0 191px;
+}
+
+@media (max-width: 920px) {
+  .partners__wrapper {
+    padding: 0 39px;
+  }
+}

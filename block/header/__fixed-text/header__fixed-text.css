@@ -1,0 +1,10 @@
+.header__fixed-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #c4c4c4;
+  transform: rotate(180deg);
+}

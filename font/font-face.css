@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Open";
+  font-style: Bold;
+  font-weight: 700;
+  font-display: swap;
+  src: url("././OpenSansCondensed-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Open";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("././OpenSansCondensed-Light.ttf") format("truetype");
+}
+
+
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("./OpenSans-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./OpenSans-Bold.ttf") format("truetype");
+}

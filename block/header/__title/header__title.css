@@ -1,0 +1,16 @@
+.header__title {
+  margin: 117px 0 0 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 87px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+@media (max-width: 1200px) {
+  .header__title {
+    margin: 40px 0 0 0;
+  }
+}

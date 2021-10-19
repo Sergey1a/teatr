@@ -1,0 +1,17 @@
+.about__numbers {
+  min-width: 225px;
+  margin-right: 30px;
+}
+
+@media (max-width: 920px) {
+  .about__numbers {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 640px) {
+  .about__numbers {
+    display: flex;
+    flex-direction: column;
+  }
+}

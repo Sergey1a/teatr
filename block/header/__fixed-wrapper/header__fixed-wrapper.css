@@ -1,0 +1,7 @@
+.header__fixed-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  writing-mode: vertical-lr;
+}

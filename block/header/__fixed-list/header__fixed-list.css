@@ -1,0 +1,8 @@
+.header__fixed-list {
+  list-style: none;
+  margin-bottom: 30px;
+}
+
+.header__fixed-list:last-child {
+  margin-bottom: 0;
+}

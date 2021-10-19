@@ -1,0 +1,11 @@
+.about__wrapper-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 640px) {
+  .about__wrapper-title {
+    margin-top: 40px;
+  }
+}

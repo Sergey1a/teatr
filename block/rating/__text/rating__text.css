@@ -1,0 +1,16 @@
+.rating__text {
+  font-family: OpenSans;
+  max-width: 540px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 150%;
+  color: #ffffff;
+  margin: 25px 0 0 0;
+}
+
+@media (max-width: 820px) {
+  .rating__text {
+    font-size: 29px;
+  }
+}

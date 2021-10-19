@@ -1,0 +1,24 @@
+.about__wrapper {
+  display: flex;
+  margin-top: 100px;
+}
+
+@media (max-width: 1250px) {
+  .about__wrapper {
+    margin: 100px auto;
+  }
+}
+
+@media (max-width:920px){
+  .about__wrapper{
+    margin: 60px auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .about__wrapper {
+    flex-direction: column;
+    width:100%;
+  }
+    
+}

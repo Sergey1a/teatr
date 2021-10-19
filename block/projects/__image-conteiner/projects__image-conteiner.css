@@ -1,0 +1,11 @@
+.projects__image-conteiner {
+  display: flex;
+  margin: 100px 0 0 150px;
+  overflow: hidden;
+}
+
+@media (max-width: 920px) {
+  .projects__image-conteiner {
+    margin: 60px 0 0 39px;
+  }
+}

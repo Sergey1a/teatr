@@ -1,0 +1,15 @@
+.contacts__wrapper-button {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  align-items: flex-end;
+}
+
+
+@media (max-width: 765px) {
+  .contacts__wrapper-button {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+}

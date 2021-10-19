@@ -1,0 +1,14 @@
+.contacts__wrapper-input {
+  display: grid;
+  grid-template: repeat(2, 1fr) / repeat(3, 1fr);
+  column-gap: 30px;
+  row-gap:30px;
+  max-width: 730px;
+}
+
+@media (max-width: 765px) {
+  .contacts__wrapper-input {
+    grid-template: repeat(3, min-content) / repeat(2, 1fr);
+    column-gap:50px;
+  }
+}

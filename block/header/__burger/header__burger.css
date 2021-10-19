@@ -1,0 +1,21 @@
+.header__burger {
+  display: none;
+  background-image: url(../../.././img/menu-burger-icon.svg);
+  background-position: center center;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  width: 27px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.header__burger:hover {
+  opacity: 0.5;
+  transition: 0.3s;
+}
+
+@media (max-width: 920px) {
+  .header__burger {
+    display: block;
+  }
+}

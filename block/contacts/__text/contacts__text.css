@@ -1,0 +1,11 @@
+.contacts__text {
+  font-family: OpenSans, Helvetica, sans-serif;
+  max-width: 390px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #989898;
+  margin: 0;
+}
+

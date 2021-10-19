@@ -1,0 +1,23 @@
+.header__wrapper-nav {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+@media (max-width: 1325px) {
+  .header__wrapper-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 920px) {
+  .header__wrapper-nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    flex-direction: initial;
+    padding-top: 6px;
+  }
+}

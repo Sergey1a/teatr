@@ -1,0 +1,16 @@
+.header__link {
+  color: #ffffff;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  font-family: Open, Arial, sans-serif;
+}
+
+.header__link:hover {
+  transition: 0.2s;
+  border-bottom: 2px solid #d1a954;
+}

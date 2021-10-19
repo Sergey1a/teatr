@@ -1,0 +1,7 @@
+.footer__container {
+  margin-top: 46px;
+  max-width: 1110px;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #565656;
+}
